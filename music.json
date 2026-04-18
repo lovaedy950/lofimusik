@@ -1,1 +1,28 @@
-
+{
+"version": 1,
+"categories": [
+  {
+    "id": "lofi",
+    "type": "focus",
+    "title": "Lo-fi",
+    "tracks": [
+      {
+        "id": "lofi-1",
+        "title": "Cozy Study",
+        "subtitle": "Lo-fi beats",
+        "emoji": "🌿",
+        "durationMinutes": 25,
+        "url": "https://archive.org/download/best-relaxation-music-2019/Best%20Relaxation%20Music%20%282019%29/03.%20%20Relaxation%20Meditation%20Songs%20Divine%20%20-%20%20Relief%20From%20Stress.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ambient-break",
+    "type": "break",
+    "title": "Ambient",
+    "tracks": [
+      { "id": "amb-1", "title": "Soft Clouds", "emoji": "☁️", "durationMinutes": 20, "url": "https://archive.org/download/best-relaxation-music-2019/Best%20Relaxation%20Music%20%282019%29/07.%20%20Tranquility%20Spa%20Universe%20%20-%20%20Peaceful%20Music.mp3" }
+    ]
+  }
+]
+}
